@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U6j3z3Y1iC+wLpvVptRVU4KVxAELJoBZ83RW1eihMA2JxnFKZF07hPtKsC2KElm8w6btbLTPT2GsrsI50LXj5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sc32762\\source\\repos\\MMTShop_APIConsume\\MMTShop_APIConsume\\MMTShop_APIConsume.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sc32762\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

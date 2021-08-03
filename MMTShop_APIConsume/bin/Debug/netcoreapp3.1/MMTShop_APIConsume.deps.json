@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MMTShop_APIConsume/1.0.0": {
+        "runtime": {
+          "MMTShop_APIConsume.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MMTShop_APIConsume/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

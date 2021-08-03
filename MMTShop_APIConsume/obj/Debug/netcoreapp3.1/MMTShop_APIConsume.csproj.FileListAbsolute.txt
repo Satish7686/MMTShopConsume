@@ -1,0 +1,13 @@
+C:\Users\sc32762\source\repos\MMTShop_APIConsume\MMTShop_APIConsume\bin\Debug\netcoreapp3.1\MMTShop_APIConsume.exe
+C:\Users\sc32762\source\repos\MMTShop_APIConsume\MMTShop_APIConsume\bin\Debug\netcoreapp3.1\MMTShop_APIConsume.deps.json
+C:\Users\sc32762\source\repos\MMTShop_APIConsume\MMTShop_APIConsume\bin\Debug\netcoreapp3.1\MMTShop_APIConsume.runtimeconfig.json
+C:\Users\sc32762\source\repos\MMTShop_APIConsume\MMTShop_APIConsume\bin\Debug\netcoreapp3.1\MMTShop_APIConsume.runtimeconfig.dev.json
+C:\Users\sc32762\source\repos\MMTShop_APIConsume\MMTShop_APIConsume\bin\Debug\netcoreapp3.1\MMTShop_APIConsume.dll
+C:\Users\sc32762\source\repos\MMTShop_APIConsume\MMTShop_APIConsume\bin\Debug\netcoreapp3.1\MMTShop_APIConsume.pdb
+C:\Users\sc32762\source\repos\MMTShop_APIConsume\MMTShop_APIConsume\obj\Debug\netcoreapp3.1\MMTShop_APIConsume.csprojAssemblyReference.cache
+C:\Users\sc32762\source\repos\MMTShop_APIConsume\MMTShop_APIConsume\obj\Debug\netcoreapp3.1\MMTShop_APIConsume.AssemblyInfoInputs.cache
+C:\Users\sc32762\source\repos\MMTShop_APIConsume\MMTShop_APIConsume\obj\Debug\netcoreapp3.1\MMTShop_APIConsume.AssemblyInfo.cs
+C:\Users\sc32762\source\repos\MMTShop_APIConsume\MMTShop_APIConsume\obj\Debug\netcoreapp3.1\MMTShop_APIConsume.csproj.CoreCompileInputs.cache
+C:\Users\sc32762\source\repos\MMTShop_APIConsume\MMTShop_APIConsume\obj\Debug\netcoreapp3.1\MMTShop_APIConsume.dll
+C:\Users\sc32762\source\repos\MMTShop_APIConsume\MMTShop_APIConsume\obj\Debug\netcoreapp3.1\MMTShop_APIConsume.pdb
+C:\Users\sc32762\source\repos\MMTShop_APIConsume\MMTShop_APIConsume\obj\Debug\netcoreapp3.1\MMTShop_APIConsume.genruntimeconfig.cache
